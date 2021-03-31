@@ -1,0 +1,53 @@
+.interview-container {
+  display: flex;
+}
+
+.box {
+  width: 400px;
+  margin: 10px 0 0 10px;
+  border: 2px solid black;
+  background-color: lightgray;
+}
+
+.box-horizontal {
+  width: auto;
+  height: 100%;
+  padding-bottom: 10px;
+}
+
+.header {
+  background-color: green;
+  border-bottom: 1px solid black;
+  color: white;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.bg-greenyellow {
+  background-color: greenyellow;
+  color: black;
+}
+
+.bg-blue {
+  background-color: blue;
+  color: white;
+}
+
+.row-item {
+  text-align: left;
+  padding: 0 0 5px 5px;
+  overflow-x: visible;
+}
+
+.row-item-horizontal {
+  padding: 0 5px 0 5px;
+  margin: 5px;
+}
+
+.selected {
+  background-color: white;
+}
+
+.rounded {
+  border-radius: 3px;
+}
