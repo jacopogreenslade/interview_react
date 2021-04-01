@@ -1,6 +1,11 @@
 # Survey160 Interview: React
 
-You're in charge of development for a web dashboard that displays a list of users and devices and allows you to select them for no particular reason. You are tasked with improving the code for the Users and Devices display boxes (this knowledge test). You are also told that in the near future there will be more boxes added with different data to be displayed.
+Everything you need for the project is inside `src/Interview`. Add your work inside of that folder. Use 3rd party libraries as you please, but make a note of it so I can include them when I test. When you are done, zip the Interview folder and submit it  
+
+When you are done grab the `src/Interview` folder, zip it, rename it to include your first and last name (E.G. `McDonald_Johnny_Interview.zip`), and email it to `cmack@survey160.com`.  
+
+## Scenario
+You're in charge of development for a web dashboard that displays a list of users and devices and allows you to select them for no particular reason. You are tasked with improving the code for the Users and Devices display boxes (that's what's in this test). You are also told that in the near future there will be more boxes added with similar functionality but different data to be displayed.
 
 ### Your assignment:
  1. Refactor the `Interview` component. Create as many files, components as you deem necessary. Keep in mind these 3 principals while making your changes: reusability of components, separation of responabilities, and common React patterns. 
